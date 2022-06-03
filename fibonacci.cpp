@@ -3,8 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Fibonacci
-    </title>
+    <title>Fibonacci</title>
 </head>
 <body>
 <form name="fibonacci_form">
